@@ -1,7 +1,6 @@
 
 
 ## 🧑‍💻 Lee Sang Hyuk
-<br/>
 
 👋 Hi, there! I'm **front-end(web) developer**, interesting most about React and TypeScript.  
 Also, trying to learn about most trend technology in every software's field.  
@@ -18,7 +17,6 @@ More details, any questions are all welcome! 👍
 <br/>
 
 ## 🏋️ Skills
-<br/>
 
 ### ⌨️ Platforms & Languages
 
