@@ -32,6 +32,7 @@ More details, any questions are all welcome! 👍
 ![](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 ![](https://img.shields.io/badge/Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 ![](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=Git&logoColor=3E2C00)
+![](https://img.shields.io/badge/GitHub&nbsp;Actions-2088FF?style=flat-square&logo=GithubActions&logoColor=white)
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
