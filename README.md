@@ -23,7 +23,8 @@ More details, any questions are all welcome! 👍
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white)
+![](https://img.shields.io/badge/React&nbsp;Native-61DAFB?style=flat-square&logo=React&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 <br/>
 
 ### 🛠 Tools
@@ -31,6 +32,9 @@ More details, any questions are all welcome! 👍
 ![](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 ![](https://img.shields.io/badge/Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 ![](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=Git&logoColor=3E2C00)
+![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
+![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+
 
 <br/>
 
