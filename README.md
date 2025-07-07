@@ -12,7 +12,7 @@ More details, any questions are all welcome! 👍
 
 ![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&link=https://github.com/sanghyuk-2i)](https://github.com/sanghyuk-2i)
-[![Blog Badge](https://img.shields.io/badge/Gatsby-663399?style=flat&logo=Gatsby&link=https://sanghyuk-2i.life)](https://sanghyuk-2i.life)
+[![Blog Badge](https://img.shields.io/badge/Blog-663399?style=flat&logo=Gatsby&link=https://sanghyuk-2i.life)](https://sanghyuk-2i.life)
 
 <br/>
 
