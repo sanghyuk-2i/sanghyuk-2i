@@ -42,12 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghyuk-2i)](https://github.com/sanghyuk-2i/github-readme-stats)
-[![SangHyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghyuk-2i)](https://github.com/sanghyuk-2i/github-readme-stats)
-
----
-
 ### 📫 Contact Me
 * **Blog:** [블로그](https://sanghyuk-2i.life/)
 * **Email:** desummit1@gmail.com
