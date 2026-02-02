@@ -1,42 +1,54 @@
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&textBg=false" />
 
+### 안녕하세요, 이상혁입니다 👋
+### 👨‍💻 기술적 제약에 갇히지 않고, 문제 해결을 위해 필요한 새로운 스택이라면 <br /> 무엇이든 빠르게 익혀 최적의 솔루션을 만들어내는 개발자입니다.
+<br />
 
-## 🧑‍💻 Lee Sang Hyuk
+사용자에게 최고의 경험을 제공하는 **Front-end 개발**을 주력으로 하고 있으며,
+<br />
+단순히 화면을 구현하는 것을 넘어 **기술 간의 연결과 확장성**에 깊은 관심을 가지고 있습니다. 
+<br />
+새로운 스택을 배우고 프로젝트에 녹여내는 과정을 즐깁니다.
 
-👋 Hi, there! I'm **front-end(web) developer**, interesting most about React and TypeScript.  
-Also, trying to learn about most trend technology in every software's field.  
+---
 
-I enjoy 🚶 walking, 🏊 swimming, and 🎮 playing games. 🙆  
-Hoping my development skills will grow just as the Piano player plays splendidly.  
-<br/>
-More details, any questions are all welcome! 👍
+### 🚀 Keywords & Interests
+* **Core Focus:** React, Next.js, TypeScript, State Management (Zustand, Tanstack Query)
+* **Broad Interests:** 
+    * CI/CD (GitHub Actions)
+    * AI Integration in Web Apps
 
-![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&link=https://github.com/sanghyuk-2i)](https://github.com/sanghyuk-2i)
-[![Blog Badge](https://img.shields.io/badge/Blog-663399?style=flat&logo=Gatsby&link=https://sanghyuk-2i.life)](https://sanghyuk-2i.life)
+---
 
-<br/>
+### 🛠 Tech Stack
 
-## 🏋️ Skills
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-9135FF?style=flat-square&logo=Vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=white"/>
+</p>
 
-### ⌨️ Platforms & Languages
+**Exploring & More**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=Supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=Claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+</p>
 
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![](https://img.shields.io/badge/React&nbsp;Native-61DAFB?style=flat-square&logo=React&logoColor=white)
-![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-<br/>
+---
 
-### 🛠 Tools
+### 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghyuk-2i)](https://github.com/sanghyuk-2i/github-readme-stats)
+[![SangHyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghyuk-2i)](https://github.com/sanghyuk-2i/github-readme-stats)
 
-![](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
-![](https://img.shields.io/badge/Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
-![](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=Git&logoColor=3E2C00)
-![](https://img.shields.io/badge/GitHub&nbsp;Actions-2088FF?style=flat-square&logo=GithubActions&logoColor=white)
-![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
-![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+---
 
-
-<br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanghyuk-2i&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+### 📫 Contact Me
+* **Blog:** [블로그](https://sanghyuk-2i.life/)
+* **Email:** desummit1@gmail.com
+* **LinkedIn:** [링크드인](https://www.linkedin.com/in/%EC%83%81%ED%98%81-%EC%9D%B4-8186a0233/)
